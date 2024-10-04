@@ -9,7 +9,7 @@ class App extends Component {
         // 测试 devServer 的代理功能
         // fetch('/api/category')
         //     .then(resp => resp.json())
-        //     .then(res => console.log('here here', res));
+        //     .then(res => console.log('herehere', res));
     }
 
     render() {
